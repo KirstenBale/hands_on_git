@@ -1,3 +1,5 @@
+# This is a comment; that's all
+
 f1 <- function(n) {
   squares_sum <- 0
   for(i in 1:length(n)) {
